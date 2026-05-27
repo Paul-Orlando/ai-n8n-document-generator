@@ -217,7 +217,6 @@ Check Outline Criteria node.
 
 | File | Description |
 |---|---|
-| [workflows/document_generator_v1.json](workflows/document_generator_v1.json) | Initial workflow release |
 | [workflows/document_generator_v2.json](workflows/document_generator_v2.json) | Fixed XML tags and typos |
 | [changelog.md](changelog.md) | Full version history |
 
